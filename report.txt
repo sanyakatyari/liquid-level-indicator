@@ -1,0 +1,38 @@
+Info: Processing symbol 'BT1:Battery:BatteryHolder_Keystone_2460_1xAA'.
+Info: Total warnings: 0, errors: 0.
+Info: Processing symbol 'BZ1:Buzzer_Beeper:Buzzer_D14mm_H7mm_P10mm'.
+Info: Processing symbol 'Q4:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'D1:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'D2:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'D3:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'Q3:Package_TO_SOT_THT:TO-92_Inline'.
+Add BT1 (footprint 'Battery:BatteryHolder_Keystone_2460_1xAA').
+Add BZ1 (footprint 'Buzzer_Beeper:Buzzer_D14mm_H7mm_P10mm').
+Add D1 (footprint 'LED_THT:LED_D5.0mm').
+Add D2 (footprint 'LED_THT:LED_D5.0mm').
+Add D3 (footprint 'LED_THT:LED_D5.0mm').
+Add J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical').
+Add Q1 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add Q2 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Add Q4 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add R4 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Add R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Add R5 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Add R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Add R6 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+
+
+Add Q3 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+
+
+Info: Total warnings: 0, errors: 0.
